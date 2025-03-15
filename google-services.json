@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54800052590",
+    "project_id": "ppb-firebase-kelompok3-xipplg2",
+    "storage_bucket": "ppb-firebase-kelompok3-xipplg2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54800052590:android:3f1282badb8ce01a48117f",
+        "android_client_info": {
+          "package_name": "com.nanda.firebase_kelompok3_praktikum9_pplg2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54800052590-pr2s3vd6jeeinbcegsek7e5atlu3nuas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFYXRg3sXciYtZP_uo0UeDw53NVyjamsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54800052590-pr2s3vd6jeeinbcegsek7e5atlu3nuas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
